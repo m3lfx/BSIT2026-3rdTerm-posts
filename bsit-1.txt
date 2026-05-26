@@ -2,6 +2,6 @@ Activity Schedule
 June 2 time TBA later Quiz 1 Select Insert Update Delete Statements
 June 10 time TBA later Unit 1 Aggregate Functions
 June 10 submission of project proposal functional requirements (printed)
-June 16 time TBA later quiz 2 Database Design Create Table etc Statements
+June 16 time TBA later quiz 2 Database Design Create Table etc Statements 
 
 Schedule may change. wait for announcements/updates.
