@@ -1,6 +1,45 @@
+*** Update June 7 2026
+VB.net MySQL Project requirements
+Machine problems 20pts
+
+mp1 Product or Service CRUD functions
+mp2 Customer or user CRUD functions
+mp3 Expenses CRUD functions
+mp4 four (4) reports using crystal reports. use inner joins and aggregate functions
+mp5 compute the total income of the shop. 10pts
+    input a date range(date picker) and show the income on those dates 10pts
+  
+Term Test Laboratory 30pts
+1. transaction CRUD 20pts
+   transaction CRUD with receipt (crystal report) that the transaction was completed. 
+
+Lecture
+Unit 1 20pts
+database design. database should be in at least second normal form 2NF or at most third normal form 3NF.
+
+unit 2 20pts
+functional requirements completeness 10
+project contribution 10
+
+Term test Lecture multiple choice pen and paper
+
+Project Uploading and Presentation Schedule
+
+Upload your project (directory and SQL script) on the conference room PC. date To be announced. 
+
+Term test multiple choice (pen and paper). Schedule will be announced later 
+
+
+full credit will be given if the group answer questions correctly. program and logical errors will have deductions.
+
+presentation sequence will be posted here.
+
+always check for updates
+
+
+
 Update June 4 2026
-June 10 quiz 2 Select Insert Update Delete Statements. exam time between 12.00nn to 1.00pm if your class
-schedule permits 
+June 10 quiz 2 Select Insert Update Delete Statements. exam time between 12.00nn to 1.00pm if your class schedule permits 
 june 16 unit 1 Aggregate Functions
 June 24 quiz 3 Database Design Create Table etc Statements
 Project should use VB.NET and MySQL
