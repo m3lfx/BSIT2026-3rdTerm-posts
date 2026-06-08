@@ -1,11 +1,11 @@
-*** Update June 7 2026
+*** Update June 8 2026
 VB.net MySQL Project requirements
 Machine problems 20pts
 
 mp1 Product or Service CRUD functions
 mp2 Customer or user CRUD functions
 mp3 Expenses CRUD functions
-mp4 four (4) reports using crystal reports. use inner joins and aggregate functions
+mp4 four (4) reports using crystal reports or iTextSharp or pdfSharp. use inner joins and aggregate functions
 mp5 compute the total income of the shop. 10pts
     input a date range(date picker) and show the income on those dates 10pts
   
