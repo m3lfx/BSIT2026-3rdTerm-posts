@@ -1,3 +1,6 @@
+*** Update june 23 2026
+unit 1 June 24 Wednesday 12.30pm Aggregate Functions 
+
 *** Update June 8 2026
 VB.net MySQL Project requirements
 Machine problems 20pts
