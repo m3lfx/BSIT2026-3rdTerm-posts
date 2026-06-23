@@ -1,3 +1,6 @@
+*** Update June 23 2026
+quiz 3 June 24 wednesday express nodejs jquery
+
 *** Update June 8 2026
 Advance Web Application Project Requirements
 machine problems 20pts
