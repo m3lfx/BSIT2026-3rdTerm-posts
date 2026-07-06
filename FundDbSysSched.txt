@@ -1,7 +1,7 @@
 ## Update July 7 Monday
 copy projects and import sql file to any lab computers assigned to your group.
 groups 1 - 20 Lab 301
-group2 21 - 39 lab 302
+group 21 - 39 lab 302
 
 
 Project Presentation 
